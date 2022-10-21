@@ -1,4 +1,4 @@
-<p align="center"><a href="https://пароль.kz" target="_blank"><img src="https://пароль.kz/assets/favicon/android-chrome-512x512.png" width="512"></a></p>
+<p align="center"><a href="https://пароль.kz" target="_blank"><img src="https://xn--80awicg8e.kz/assets/favicon/android-chrome-512x512.png" width="512"></a></p>
 
 ## О сервисе
 
